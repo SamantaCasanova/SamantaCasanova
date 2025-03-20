@@ -1,4 +1,4 @@
-# Saudações! Prazer meu nome e Samanta👋
+# Saudações! Prazer, meu nome e Samanta👋
 
 ## Sobre Mim
 - 🌱 **Desenvolvedora iniciante**: Estou aprendendo a desenvolver e tenho uma grande vontade de seguir nessa área.
