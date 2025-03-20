@@ -16,7 +16,6 @@ Espero que possamos compartilhar aprendizados e trocar experiências! 😊
 
 <img loading="lazy" width="300px" height="300px" src="https://github.com/user-attachments/assets/9fa697f4-f72d-4ac5-9e55-b0f8366d477a"/>
 
-
 <!---
 SamantaCasanova/SamantaCasanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
